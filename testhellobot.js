@@ -1,5 +1,5 @@
 const TeleBot = require('../');
-const bot = new TeleBot('TELEGRAM_BOT_TOKEN');
+const bot = new TeleBot('1260288897:AAFhSVaMOgRBaPP0tHwsHBHlO2AF5KisVKI');
 
 // On every text message
 bot.on('text', msg => {
